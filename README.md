@@ -34,7 +34,7 @@ The program contains the following functionality:
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Matthew Jung]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
