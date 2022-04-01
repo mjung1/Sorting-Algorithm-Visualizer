@@ -7,11 +7,12 @@
 
 The program contains the following functionality:
 - Working GUI
-- Upon reset, randomly generates bars of various lengths to be sorted
+- Randomly generates bars of various lengths to be sorted
 - Ability to stop sorting procedure at any point in time
-- Ability to select from 1 of 4 sorting algorithms and to sort in ascending or descending order
-- Sorting algorithm continues until completion
-- Ability to increase, decrease, or restore to default speed
+- Ability to select from 1 of 4 sorting algorithms
+- Ability to select sorting in ascending or descending order
+- Sorting algorithm continues until all bars are sorted
+- Ability to increase, decrease, or reset the sorting speed
 
 ## Video Walkthrough (GIF)
 
