@@ -1,8 +1,5 @@
 # Sorting-Algorithm-Visualizer
 
-
-App to visualize various sorting algorithms
-
 **Sorting Algorithm Visualizer** is an app to visualize various in-place sorting algorithms, including Insertion Sort, Bubble Sort, Selection Sort, and Heap Sort
 
 
