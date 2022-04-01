@@ -15,15 +15,30 @@ The program contains the following functionality:
 - Ability to increase, decrease, or reset the sorting speed
 
 ## Video Walkthrough (GIF)
+Ability to select from 1 of 4 sorting algorithms
+![](http://g.recordit.co/4UFmBTNcfZ.gif)
+
+Insertion Sort
+![](http://g.recordit.co/N8zO0NoFnt.gif)
+
+Bubble Sort
+![](http://g.recordit.co/VxCwv60aGc.gif)
+
+Selection Sort
+![](http://g.recordit.co/U7Z5jzA4Os.gif)
+
+Heap Sort
+![](http://g.recordit.co/5w8YgbF94p.gif)
+
+Example of Descending Sort
+![](http://g.recordit.co/h4JFrp4XIb.gif)
 
 Randomly generates bars of various lengths to be sorted
 ![](http://g.recordit.co/MzaLhTjIFt.gif)
 
-Ability to select from 1 of 4 sorting algorithms
-![](http://g.recordit.co/4UFmBTNcfZ.gif)
+Functionality to adjust sorting speed
+![](http://g.recordit.co/uJxnkP1LW7.gif)
 
-![](gif3-link-here)
-![](gif4-link-here)
 
 ## License
 
