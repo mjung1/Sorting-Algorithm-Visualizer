@@ -8,18 +8,20 @@
 The program contains the following functionality:
 - Working GUI
 - Randomly generates bars of various lengths to be sorted
-- Ability to stop sorting procedure at any point in time
 - Ability to select from 1 of 4 sorting algorithms
+- Ability to stop sorting procedure at any point in time
 - Ability to select sorting in ascending or descending order
 - Sorting algorithm continues until all bars are sorted
 - Ability to increase, decrease, or reset the sorting speed
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
 Randomly generates bars of various lengths to be sorted
 ![](http://g.recordit.co/MzaLhTjIFt.gif)
-![](gif2-link-here)
+
+Ability to select from 1 of 4 sorting algorithms
+![](http://g.recordit.co/4UFmBTNcfZ.gif)
+
 ![](gif3-link-here)
 ![](gif4-link-here)
 
